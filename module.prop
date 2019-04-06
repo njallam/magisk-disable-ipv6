@@ -4,4 +4,3 @@ version=v1.0
 versionCode=1
 author=njallam
 description=A module to disable IPv6 on boot.
-minMagisk=17000
