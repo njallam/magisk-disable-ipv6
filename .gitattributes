@@ -10,3 +10,4 @@ system/** binary
 # Ignore files from export.
 .gitattributes export-ignore
 .gitignore export-ignore
+Makefile export-ignore

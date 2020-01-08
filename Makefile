@@ -1,4 +1,4 @@
-Disable-IPv6.zip: $(wildcard **/*)
+Disable-IPv6.zip: module.prop $(wildcard *.sh) $(wildcard **/*)
 	git archive -o $@ HEAD
 
 clean:
